@@ -1,2 +1,3 @@
 # adaptive-creative-plus
-Адаптивная верстка сайта creative-plus
+
+demo - https://shamilfrontend.github.io/adaptive-creative-plus/
